@@ -31,7 +31,7 @@ In this challenge a Jupyter Notebook is created to analyze the impact of the dru
 1. Clone the repository
 
 ```
-git clone https://github.com/PratishthaTheeng/datavisualiazation-challenge.git
+git clone https://github.com/PratishthaTheeng/datavisualization-challenge.git
 ```
 
 ## Usage
